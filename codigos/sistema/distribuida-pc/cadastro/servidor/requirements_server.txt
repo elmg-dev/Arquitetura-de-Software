@@ -1,0 +1,2 @@
+SQLAlchemy>=2.0,<3.0
+Twisted>=22.10,<26.0
