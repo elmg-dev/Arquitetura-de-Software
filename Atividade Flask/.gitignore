@@ -1,0 +1,31 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Banco local (gerado pelo SQLite em instance/)
+instance/
+*.db
+*.sqlite3
+
+# Segredos (dynaconf carrega .secrets.toml automaticamente)
+.secrets.toml
+*.local.toml
+
+# Testes / cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores / sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

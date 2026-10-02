@@ -1,0 +1,33 @@
+[project]
+name = "atividade01102026"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "aniso8601==10.0.1",
+    "babel==2.18.0",
+    "blinker==1.9.0",
+    "bootstrap-flask==2.6.0",
+    "click==8.5.0",
+    "dotenv==0.9.9",
+    "dynaconf==3.3.5",
+    "flask==3.1.3",
+    "flask-admin==2.2.1",
+    "flask-babel==4.0.0",
+    "flask-login==0.6.3",
+    "flask-restful==0.3.10",
+    "flask-sqlalchemy==3.1.1",
+    "greenlet==3.5.5",
+    "itsdangerous==2.2.0",
+    "jinja2==3.1.6",
+    "markupsafe==3.0.3",
+    "psycopg2-binary==2.9.11",
+    "python-dotenv==1.2.3",
+    "pytz==2026.4",
+    "setuptools==84.0.0",
+    "six==1.17.0",
+    "sqlalchemy==2.0.52",
+    "sqlalchemy-serializer==1.6.3",
+    "typing-extensions==4.16.0",
+    "werkzeug==3.1.8",
+    "wtforms==3.2.2",
+]
